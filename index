@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<meta charset=" UTF-8">
+<head> <h1>My Resume</h1>
+    <img src="./profilkép.png " height="100">
+    <bodey>
+<ol>
+<h3><li>Summary</h3></li>
+<p>I just started HTML and CSS</p>
+<h3><li>Education</li></h3>
+<p>High school graduation</p>
+<p>2010 Széchenyi Ferenc Gimnázium és Szakképző iskola Barcs</p>
+<p><h3><li>Work experience</li></p></h3>
+<p>elvégeztem egy tanfolyamot Angela segítségével.</p>
+<p><h3><li>Skills</li></h3></p>
+<p>fast learnign, team work, etc</p>
+<p><li>awards:</li></p>
+</ol>
+<a href="../4.3 HTML Porfolio Project/public/contact.html"> Contact</a>
+<p><a href="">My hobbies</a> </p>
+
+<footer>
+    <small>
+        Copyright © 2023 Football History Archives. All Rights Reserved.
+    </small>
+</footer>
+    </bodey>
+
+
+    </html>
